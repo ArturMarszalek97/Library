@@ -1,0 +1,69 @@
+﻿@model ProjektNET.ViewModels.Zawodnik.EditVM
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    <title>Edit</title>
+</head>
+<body>
+    <div align="right">
+        Jesteś zalogowany jako: @Model.username
+    </div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+         <div style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 400px; margin-left:400px; color:white">Edycja</div>
+         <table align="center" cellpadding="5" style="border-radius: 12px; border: 5px solid orange">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.user.bookID)
+            <tr>
+                <td>
+                    <b>@Html.LabelFor(model => model.user.title, htmlAttributes: new { @class = "control-label col-md-2" })</b>
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.user.title, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.user.title, "", new { @class = "text-danger" })
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <b>@Html.LabelFor(model => model.user.lastName, htmlAttributes: new { @class = "control-label col-md-2" })</b>
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.user.lastName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.user.lastName, "", new { @class = "text-danger" })
+                <td>
+            </tr>
+
+            <tr>
+                <td>
+                    <b>@Html.LabelFor(model => model.user.price, htmlAttributes: new { @class = "control-label col-md-2" })</b>
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.user.price, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.user.price, "", new { @class = "text-danger" })
+                </td>
+            </tr>
+        </table>
+        <div class="form-group">
+            <div align="center" class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Potwierdź zmiany" class="btn btn-default" />
+            </div>
+        </div>
+
+    }
+
+    <br /><br />
+    <span style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 845px; color:white">
+        @Html.ActionLink("Powrót do listy", "Index", new { id = 1 }, new { @style = "color: white;" })
+    </span>
+</body>
+</html>

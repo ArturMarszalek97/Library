@@ -1,0 +1,55 @@
+﻿@model ProjektNET.ViewModels.Zawodnik.DetailsVM
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    <title>Details</title>
+</head>
+<body>
+    <div align="right">
+        Jesteś zalogowany jako: @Model.username
+    </div>
+    <div align="center" style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 400px; margin-left: 400px; color:white">Szczegóły</div>
+    <table align="center" cellpadding="5" style="border-radius: 12px; border: 5px solid orange">
+        <tr>
+            <td>
+                <b>@Html.DisplayNameFor(model => model.title)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.title)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>@Html.DisplayNameFor(model => model.lastName)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.lastName)
+            </td>
+        </tr>
+        <tr>
+            <td>
+               <b>@Html.DisplayNameFor(model => model.price)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.price) zł
+            </td>
+        </tr>
+     </table>
+    
+    <br /><br />
+    <span style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 850px; color:white">
+        @Html.ActionLink("Powrót do listy", "Index", new { id = 1 }, new { @style = "color: white;" })
+    </span>
+</body>
+</html>

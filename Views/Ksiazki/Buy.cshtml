@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ProjektNET.Models.Ksiazka>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    <title>Buy</title>
+</head>
+<body>
+
+    <div align="center" style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 200px; margin-left: 200px; color:white">Księgarnia SOWA - Twoje zamówienia</div>
+    <div>
+        <table align="center" ; cellpadding="20" style="border-radius: 12px; border: 5px solid orange">
+
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.bookID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.lastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.price)
+                </th>
+                <th></th>
+            </tr>
+
+
+
+            @foreach (var o in Model)
+            {
+                <tr>
+                    <td align="center">
+                        @Html.DisplayFor(m => o.bookID)
+                    </td>
+                    <td align="center">
+                        @Html.DisplayFor(m => o.title)
+                    </td>
+                    <td align="center">
+                        @Html.DisplayFor(m => o.lastName)
+                    </td>
+                    <td align="center">
+                        @Html.DisplayFor(m => o.price)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Usuń", "Remove", new { id = o.bookID }, new { @style = "color: indigo;" })
+                    </td>
+                </tr>
+                
+            }
+
+        </table>
+        </div>
+    <br />
+    <br />
+
+    <span style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 850px; color:white">
+        @Html.ActionLink("Powrót do listy", "Index", new { id = 1 }, new { @style = "color: white;" })
+    </span>
+
+</body>
+</html>

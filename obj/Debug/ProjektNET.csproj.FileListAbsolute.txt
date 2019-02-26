@@ -1,0 +1,163 @@
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\ProjektNET.dll.config
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\ProjektNET.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\ProjektNET.pdb
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\EntityFramework.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\EntityFramework.SqlServer.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Helpers.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Mvc.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Razor.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.Razor.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\EntityFramework.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\EntityFramework.SqlServer.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Razor.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.Razor.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Helpers.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\System.Web.Mvc.xml
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csprojAssemblyReference.cache
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csproj.CopyComplete
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.dll
+C:\Users\Marek\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.pdb
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\ProjektNET.dll.config
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\ProjektNET.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\ProjektNET.pdb
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\EntityFramework.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\EntityFramework.SqlServer.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Helpers.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Mvc.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Razor.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.Razor.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\EntityFramework.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\EntityFramework.SqlServer.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Razor.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Webpages.Razor.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Helpers.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\System.Web.Mvc.xml
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Razor.resources.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csproj.CopyComplete
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.dll
+C:\Users\marco\Desktop\ProjektNET\ProjektNET\obj\Debug\ProjektNET.pdb
+D:\Projekty\ProjektNET\ProjektNET\bin\ProjektNET.dll.config
+D:\Projekty\ProjektNET\ProjektNET\bin\ProjektNET.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\ProjektNET.pdb
+D:\Projekty\ProjektNET\ProjektNET\bin\EntityFramework.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\EntityFramework.SqlServer.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Helpers.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Mvc.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Razor.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Webpages.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Webpages.Razor.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\EntityFramework.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\EntityFramework.SqlServer.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Razor.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Webpages.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Webpages.Razor.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Helpers.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\System.Web.Mvc.xml
+D:\Projekty\ProjektNET\ProjektNET\bin\pl\System.Web.Razor.resources.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.resources.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.Deployment.resources.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.Razor.resources.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\pl\System.Web.Helpers.resources.dll
+D:\Projekty\ProjektNET\ProjektNET\bin\pl\System.Web.Mvc.resources.dll
+D:\Projekty\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csprojResolveAssemblyReference.cache
+D:\Projekty\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csproj.CoreCompileInputs.cache
+D:\Projekty\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csproj.CopyComplete
+D:\Projekty\ProjektNET\ProjektNET\obj\Debug\ProjektNET.dll
+D:\Projekty\ProjektNET\ProjektNET\obj\Debug\ProjektNET.pdb
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\ProjektNET.dll.config
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\ProjektNET.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\ProjektNET.pdb
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\EntityFramework.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\EntityFramework.SqlServer.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Helpers.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Mvc.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Razor.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Webpages.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Webpages.Razor.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\EntityFramework.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\EntityFramework.SqlServer.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Razor.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Webpages.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Webpages.Razor.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Helpers.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\System.Web.Mvc.xml
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\obj\Debug\ProjektNET.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\obj\Debug\ProjektNET.dll
+C:\Users\Artur\Downloads\Nowy folder\qwerty\ProjektNET\ProjektNET\obj\Debug\ProjektNET.pdb
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\ProjektNET.dll.config
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\ProjektNET.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\ProjektNET.pdb
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\EntityFramework.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\EntityFramework.SqlServer.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Helpers.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Mvc.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Razor.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Webpages.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Webpages.Razor.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\EntityFramework.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\EntityFramework.SqlServer.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Razor.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Webpages.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Webpages.Razor.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Helpers.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\System.Web.Mvc.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\obj\Debug\ProjektNET.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\obj\Debug\ProjektNET.pdb
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\obj\Debug\ProjektNET.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\obj\Debug\ProjektNET.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Projekt1\ProjektNET\obj\Debug\ProjektNET.csproj.CopyComplete

@@ -1,0 +1,54 @@
+﻿@model ProjektNET.ViewModels.Uwierzytelnianie.LoginVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    <title>Login</title>
+</head>
+<body>
+
+    <div>
+        <p> @Html.ValidationSummary(true, "", new { @class = "text-danger" })</p>
+        <p>
+            @Html.ValidationMessage("CredentialError")
+        </p>
+                @using (Html.BeginForm())
+                {
+        <div align="right" style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-left:1200px; color:white; text-align:center">
+            @Html.ActionLink("Zarejestruj się", "NewUser", new { id = 1 }, new { @style = "color: white;" })
+        </div>
+
+        <div align="center" style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 400px; margin-left: 400px; color:white">Logowanie</div>
+        <table align="center" cellpadding="5" style="border-radius: 12px; border: 5px solid orange">
+            <tr>
+                <th>@Html.DisplayNameFor(m => m.username)</th>
+                <td>@Html.EditorFor(m => Model.username)</td>
+
+            </tr>
+
+            <tr>
+                <th>@Html.DisplayNameFor(m => m.password)</th>
+                <td>@Html.EditorFor(m => Model.password)</td>
+
+            </tr>
+        </table>
+        <div align="center">
+            <input type="submit" value="Zatwierdź" />
+        </div>
+        
+}
+    </div>
+    <br /><br />
+    
+    <span style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 845px; color:white">
+        @Html.ActionLink("Powrót do listy", "Index", "Ksiazki", new { id = 1 }, new { @style = "color: white;" })
+    </span>
+</body>
+</html>
+

@@ -1,0 +1,69 @@
+﻿@model ProjektNET.ViewModels.Zawodnik.DeleteVM
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    <title>Delete</title>
+</head>
+<body>
+    <div align="right">
+        Jesteś zalogowany jako: @Model.username
+    </div>
+    <br />
+    <div align="center" style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 400px; margin-left: 400px; color:white">Jesteś pewny, że chcesz usunąć wybraną pozycję z listy?</div>
+    <table align="center" cellpadding="5" style="border-radius: 12px; border: 5px solid orange">
+        <tr>
+            <td>
+                <b>@Html.DisplayNameFor(model => model.user.title)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.title)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>@Html.DisplayNameFor(model => model.user.lastName)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.lastName)
+            </td>
+        </tr>
+        <tr>
+
+            <td>
+                <b>@Html.DisplayNameFor(model => model.user.price)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.price) zł
+            </td>
+        </tr>
+
+    </table>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div align="center" class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-default" />
+
+        </div>
+
+    }
+    <br /><br />
+    <span style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 845px; color:white">
+        @Html.ActionLink("Powrót do listy", "Index", new { id = 1 }, new { @style = "color: white;" })
+    </span>
+
+</body>
+</html>

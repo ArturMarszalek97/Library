@@ -1,0 +1,96 @@
+﻿@model ProjektNET.ViewModels.Zawodnik.IndexVM
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    <title>Index</title>
+</head>
+<body>
+
+    @if (Model.username.Length == 0)
+    {
+        <div align="right" style="border: 2px solid orange; background-color: orange; border-radius: 12px; margin-top: 15px; margin-left:1000px; text-align: center">
+            @Html.ActionLink("Zaloguj się", "Login", "Uwierzytelnianie", new { id = 1 }, new { @style = "color: white;" })
+        </div>
+    }
+
+    @if ( @Model.username.Length > 0)
+    {
+        <div align="right">
+            Jesteś zalogowany jako: @Model.username
+        </div>
+        <div align="right" style="border: 2px solid white; background-color: orange; color: orangered; border-radius: 12px; margin-top: 15px; margin-left:1000px; text-align: center">
+            @Html.ActionLink("Wyloguj", "Logout", "Uwierzytelnianie", new { id = 1 }, new { @style = "color: white;" })
+        </div>
+
+        <div align="right" style="border: 2px solid white; background-color: orange; color: orangered; border-radius: 12px; margin-top: 15px; margin-left:1000px; text-align: center">
+            @Html.ActionLink("Twój koszyk", "List", null , new { @style = "color: white;" })
+        </div>
+    }
+
+    <br />
+    <br />
+
+    <span style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right:700px; text-align: center">
+        @Html.ActionLink("Dodaj ksiazke", "Create", new { id = 2 }, new { @style = "color: white;" })
+    </span>
+    <div></div>
+    <br />
+    <br />
+    <div align="center" style="border: 10px solid orange; background-color: orange; border-radius: 12px; margin-right: 200px; margin-left: 200px; color:white">Księgarnia SOWA</div>
+    <div>
+        <table align="center"; cellpadding="20" style="border-radius: 12px; border: 5px solid orange">
+            
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.bookID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.lastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.price)
+                </th>
+                <th></th>
+            </tr>
+           
+
+
+            @foreach (var item in Model.userList)
+            {
+                <tr>
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.bookID)
+                    </td>
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.title)
+                    </td>
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.lastName)
+                    </td>
+                    <td align="center">
+                        @Html.DisplayFor(modelItem => item.price) zł
+                    </td>
+                    <td>
+                        @Html.ActionLink("Kup", "Buy", new { id = item.bookID }, new { @style = "color: blue;" }) |                   
+                        @Html.ActionLink("Szczegóły", "Details", new { id = item.bookID }, new { @style = "color: blue;" }) |
+                        @Html.ActionLink("Edytuj", "Edit", new { id = item.bookID }, new { @style = "color: green;" }) |
+                        @Html.ActionLink("Usuń", "Delete", new { id = item.bookID }, new { @style = "color: red;" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</body>
+</html>
